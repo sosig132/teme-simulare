@@ -1,0 +1,9 @@
+===== NUMARUL DE TESTE: 100000 =====
+Media teoretica este: 1
+Media de selectie este: 1.0071448283897326
+Dispersia teoretica este: 1
+Dispersia de selectie este: 1.012124983402419
+Media teoretica este: 4
+Media de selectie este: 4.00158828685741
+Dispersia teoretica este: 4
+Dispersia de selectie este: 3.98049442961775
